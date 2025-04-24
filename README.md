@@ -96,7 +96,8 @@ Example:
 
 ## 📬 Contact
 
-Made with ❤️ by Aman Gupta 
+Made with ❤️ by Aman Gupta
+
 📧 aman.gupta@estackshiftai.com 
 
 ## 📄 License
