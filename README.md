@@ -27,6 +27,15 @@ Designed to help dev teams manage projects, monitor KPIs, and scale operations w
 
 ---
 
+## ⚙️ Prerequisites
+
+- Make sure **Node.js (v14 or higher)** is installed.
+- You can check by running:
+
+```bash
+node -v
+npm -v
+
 ## 🔧 Getting Started
 
 ```bash
